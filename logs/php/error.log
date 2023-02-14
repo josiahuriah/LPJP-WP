@@ -1,0 +1,32 @@
+[01-Feb-2023 17:20:37 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[11-Feb-2023 17:45:51 UTC] Cron reschedule event error for hook: wpforms_email_summaries_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"wpforms_email_summaries_weekly","args":[],"interval":604800}
+[11-Feb-2023 19:28:12 UTC] PHP Parse error:  syntax error, unexpected token "=", expecting ")" in /Users/jduncanson/Local Sites/lamar-pinder-justice-of-the-peace/app/public/wp-content/themes/LPJP/functions.php on line 9
+[11-Feb-2023 19:28:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/jduncanson/Local Sites/lamar-pinder-justice-of-the-peace/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 372
+[11-Feb-2023 19:28:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/jduncanson/Local Sites/lamar-pinder-justice-of-the-peace/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 373
+[14-Feb-2023 16:15:59 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Feb-2023 16:15:59 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Feb-2023 16:15:59 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Feb-2023 16:15:59 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Feb-2023 16:15:59 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Feb-2023 16:15:59 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Feb-2023 16:17:45 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Feb-2023 16:17:45 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Feb-2023 16:17:45 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Feb-2023 16:17:45 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Feb-2023 16:17:45 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Feb-2023 16:17:45 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Feb-2023 16:18:13 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Feb-2023 16:18:13 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Feb-2023 16:18:13 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Feb-2023 16:18:13 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Feb-2023 16:18:13 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Feb-2023 16:18:13 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Feb-2023 16:36:21 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Feb-2023 16:36:21 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[14-Feb-2023 16:37:20 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
+[14-Feb-2023 16:37:20 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
+[14-Feb-2023 16:37:20 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
+[14-Feb-2023 16:37:20 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
+[14-Feb-2023 18:29:10 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action" in /Users/jduncanson/Local Sites/lamar-pinder-justice-of-the-peace/app/public/wp-content/themes/LPJP/functions.php on line 18
+[14-Feb-2023 18:29:12 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action" in /Users/jduncanson/Local Sites/lamar-pinder-justice-of-the-peace/app/public/wp-content/themes/LPJP/functions.php on line 18
+[14-Feb-2023 18:33:25 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
